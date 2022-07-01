@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bienvenido, me llamo Johan Ferreira y soy fullstack web developer 👋
 
 <!--
 **KraosFex/KraosFex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Soy un programador enfocado en las buenas practicas, me caracteriza la dedicación y la capacidad de enfocarme en la resolución de problemas. Tengo facilidad de integración en equipos de desarrollo. Me manejo bien en entornos sociales y me defino por ser creativo, así como curioso y siempre enfocado en tener algo que aportar. Estoy abierto al dialogo en situaciones de conflicto y creo firmemente en la superación personal.
+Soy fullstack web developer enfocado en las buenas practicas, me caracteriza la dedicación y la capacidad de enfocarme en la resolución de problemas. Tengo facilidad de integración en equipos de desarrollo. Me manejo bien en entornos sociales y me defino por ser creativo, así como curioso y siempre enfocado en tener algo que aportar. Estoy abierto al dialogo en situaciones de conflicto y creo firmemente en la superación personal.
