@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 <p>Full tecnologies: JavaScript || TypeScript || Node.js || Python || React.js || Next.js || Redux || SQL || PostgreSQL</p>
 
-<p><strong>Correo:</strong> ferreirajohan14253@gmail.com <br>
-<strong>Linkedin:</strong> https://www.linkedin.com/in/johanferreira/ 
+<p>
+  <strong>Correo:</strong> ferreirajohan14253@gmail.com <br>
+  <strong>Tlf:</strong> +584121076254 <br>
+  <strong>Linkedin:</strong> https://www.linkedin.com/in/johanferreira/ 
 </p>
 
