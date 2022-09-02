@@ -19,12 +19,6 @@ Here are some ideas to get you started:
 
 <p>Full tecnologies: JavaScript || TypeScript || Node.js || Python || React.js || Next.js || Redux || SQL || PostgreSQL</p>
 
-const cesar = {
-  code: [javascript, typescript, html, css, mongodb, sql],
-  tools: [react, redux, node, jest, nest, git, mongoose, postgres],
-  challenge: "I'm doing the #100DaysOfCode focused on javascript with node and react"
- }
-
 <p>
   <strong>Mail:</strong> ferreirajohan14253@gmail.com <br>
   <strong>Tlf:</strong> +584121076254 <br>
